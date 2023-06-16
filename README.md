@@ -1,2 +1,3 @@
 # Biblioteca-de-Alexandria
-Um repositório para armazenar todo o conhecimento do mundo.
+[004.4.1] - Análise de Dados
+[006.3.1] - Inteligência Artificial
